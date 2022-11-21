@@ -1,0 +1,239 @@
+.bg {
+
+    background-image: url(../components/Dripp.png);
+    background-repeat: no-repeat;
+    background-position-x: 125px;
+    background-position-y: 40px;
+
+}
+
+.body {
+    background: linear-gradient(180.18deg,
+            hsl(259deg 96% 13%) -13.9%,
+            hsl(259deg 1% 5%) 58.69%, hsl(259deg 1% 5%) 90.1%, hsl(259deg 4% 4%) 130.26%);
+
+    width: 1970px;
+    height: 100%;
+}
+
+.dripp {
+    padding-top: 44px;
+    margin-left: 128px;
+    margin-right: 1651px;
+
+}
+
+
+.drip {
+    width: 93px;
+    height: 56px;
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 56px;
+    text-align: center;
+    background: linear-gradient(118deg, #254ab3 30.15%, #f57aff 105.47%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    display: inline-block;
+}
+
+.termsHeading {
+    margin-top: -60px;
+    margin-left: 752px;
+    margin-right: 932px;
+}
+
+
+
+
+.termsHeadingCard {
+    width: 237px;
+    height: 56px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 56px;
+    color: #4a4a4a;
+    font-family: "Avenir Next";
+}
+
+
+
+.privacyHeading {
+    margin-top: -56px;
+    margin-left: 282px;
+    margin-right: 751px;
+    margin-bottom: 982px;
+}
+
+
+
+.privacyPolicyHeading {
+    width: 149px;
+    height: 56px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 56px;
+    color: #FFFFFF;
+    font-family: "Avenir Next";
+    font-weight: lighter;
+}
+
+
+.privacyInputCardHeadingContainer {
+    color: #FFFFFF;
+    font-size: 30px;
+    padding-left: 10px;
+    text-align: left;
+    margin-top: -850px;
+    margin-left: -640px;
+    height: 4691px;
+    font-family: Imported;
+}
+
+.drippParagraphCard2 {
+    font-size: 15px;
+    padding-top: 36px;
+    width: 1101px;
+    float: none;
+    text-align: left;
+    margin-right: 500px;
+    height: 217px;
+    padding-bottom: 40px;
+    line-height: 41.5px;
+    font-family: Imported;
+}
+
+.collectPrivacyInform {
+    color: #9975FF;
+    Font-size: 24px;
+    margin-top: 24px;
+
+
+}
+
+li {
+    line-height: 40px;
+    margin-left: 27px;
+}
+
+.provideCardPrivacyInform {
+    Font-size: 16px;
+    margin-left: 77px;
+    margin-top: 24px;
+    line-height: 38.5px;
+    width: 1192px;
+    font-family: Imported;
+
+
+}
+
+
+.circle {
+    font-size: 20px;
+    line-height: 38.5px;
+    vertical-align: top;
+    height: 52px;
+    margin-left: -6px;
+
+
+}
+
+.dot {
+    position: relative;
+    left: -39px;
+}
+
+.privacyDownloadCard {
+    color: #9975FF;
+    width: 10px;
+    margin-top: -4603px;
+    margin-left: 1443px;
+    font-size: 24px;
+
+}
+
+.privacy-li {
+    color: #FFFFFF;
+    line-height: 39px;
+    font-size: 24px;
+    margin-left: -8%;
+    padding-bottom: 180px;
+    width: 66px;
+    padding-top: 12px;
+
+
+
+}
+
+.privacyContent {
+    color: #FFFFFF;
+    margin-top: 150px;
+}
+
+.flex-container {
+    color: #9975FF;
+    width: 380px;
+    padding-left: 2px;
+    line-height: 34px;
+    font-size: 18px;
+    flex: 50%;
+    height: 443px;
+
+}
+
+section {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+@media only screen and (max-width: 5500px) {
+    .body {
+        background: linear-gradient(180.18deg,
+                hsl(259deg 96% 13%) -13.9%,
+                hsl(259deg 1% 5%) 58.69%, hsl(259deg 1% 5%) 90.1%, hsl(259deg 4% 4%) 130.26%);
+
+        width: 1970px;
+        height: 100%;
+    }
+
+    .privacyDownloadCard {
+        color: #9975FF;
+        width: 10px;
+        margin-top: -4603px;
+        margin-left: 1443px;
+        font-size: 24px;
+
+    }
+
+    .privacy-li {
+        color: #FFFFFF;
+        line-height: 39px;
+        font-size: 24px;
+        margin-left: -8%;
+        padding-bottom: 180px;
+        width: 66px;
+        padding-top: 12px;
+
+
+
+    }
+
+    .privacyContent {
+        color: #FFFFFF;
+        margin-top: 150px;
+    }
+
+    .flex-container {
+        color: #9975FF;
+        width: 380px;
+        padding-left: 2px;
+        line-height: 34px;
+        font-size: 18px;
+        flex: 50%;
+        height: 443px;
+
+    }
+}
